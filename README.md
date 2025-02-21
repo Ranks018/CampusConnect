@@ -1,6 +1,6 @@
 <h1>CampusConnect</h1>
 
-
+<h3>This project is derived from Online News Portal by Moni Kishore Dhar:</h3>
 <h3>Project Purpose:</h3>
 The purpose of the CampusConnect is to give campus students the opportunity to read and search up-to-date news on their campus, 
 as well as to give authenticated users(students) the opportunity to comment on specific news.
