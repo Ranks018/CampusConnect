@@ -127,7 +127,7 @@ important news and also to provide searching facility due to the grown size of r
       <td>Super Admin Login screen.</td>
     </tr>
         <tr>
-      <td><img src="Images/editsnews.jpg" width="900" alt="Super Admin Manages"></td>
+      <td><img src="Images/editnews.jpg" width="900" alt="Super Admin Manages"></td>
       <td>Super Admin and Admin interface allowing for editing news content.</td>
     </tr>
     <tr>
