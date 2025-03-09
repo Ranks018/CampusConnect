@@ -18,9 +18,7 @@ and important news for all students.</li>
 </ul>
 
 <h3>Project Description:</h3>
-This is a database application system that is to be used by students to read and search news in anytime and anywhere. The system keeps the record of all the admin, authenticated viewer. 
-This system also has the ability to keep track of the news as well as comment record. This project intends to computerize online news system in order to provide the instant and 
-important news and also to provide searching facility due to the grown size of records of news. 
+<p>This is a database application system that is to be used by students to read and search news in anytime and anywhere. The system keeps the record of all the admin, authenticated viewer.<br>This system also has the ability to keep track of the news as well as comment record. This project intends to computerize online news system in order to provide the instant and important news and also to provide searching facility due to the grown size of records of news.<br> With <b>user authentication system</b> of the app, when the user registers, they enter their names and email. Next step, they are then sent an email with a timed link to complete their registration. </p>
 <br>
 
 <h3>System Users:</h3>
